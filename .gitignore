@@ -1,0 +1,8 @@
+node_modules/
+build/
+auto*.gypi
+*.log.*
+*.log
+*.pro.user
+nbind
+map.gmap
